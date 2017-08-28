@@ -1,2 +1,2 @@
-# newsletter
+# Newsletter
 Newsletter Particles for Gantry Framework
